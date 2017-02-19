@@ -118,6 +118,14 @@ Grabs an item from the config.
 var Conv = manDiag.get(1, 'dialog');
 ```
 
+### load(config)
+Loads a config file.
+
+#### Example:
+```
+manDiag.load(config);
+```
+
 ### new()
 TBD
 

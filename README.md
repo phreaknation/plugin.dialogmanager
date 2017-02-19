@@ -1,7 +1,7 @@
 # Dialog Manager
 By Joel Dies
 
-Demo(Coming Soon)
+[Demo](http://codepen.io/phreaknation/full/NdZWdw/)
 
 [Video](https://youtu.be/0RNYi8aXYG4)
 
